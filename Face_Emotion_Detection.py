@@ -40,7 +40,6 @@ from keras.utils import np_utils
 
 df=pd.read_csv('fer2013.csv')
 
-# print(df.info())
 # print(df["Usage"].value_counts())
 
 # print(df.head())
